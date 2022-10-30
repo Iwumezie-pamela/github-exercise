@@ -1,4 +1,13 @@
+FOODS
+
 Rice
 Beans
 Potato
 Plantain
+
+MOVIES
+
+Batman
+How To Get Away With Murder
+Black Panther
+Cat Woman
